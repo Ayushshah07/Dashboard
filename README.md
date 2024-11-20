@@ -11,27 +11,16 @@ Sales Analytics: Key metrics such as online orders, bulk orders, and B2B orders 
 Theme Toggle: Switch between light and dark modes for better accessibility.
 Real-Time Updates Section: Displays user activities and recent updates dynamically.
 Profile Management: Includes admin profile info with a profile photo.
-3. Folder Structure
-Here is the structure of the project:
 
-plaintext
-Copy code
-project/
-├── index.html            # Main HTML file
-├── style.css             # Stylesheet for layout and design
-├── script.js             # JavaScript for interactivity
-├── images/               # Folder containing images (profile pictures, etc.)
-│   ├── profile-1.jpg
-│   ├── profile-2.jpg
-│   ├── profile-3.jpg
-│   ├── profile-4.jpg
+
+
 4. Setup and Usage
 Clone or Download:
 Download or clone the project repository to your local machine:
 
 bash
 Copy code
-git clone https://github.com/your-repo/admin-dashboard.git
+git clone https://(https://github.com/Ayushshah07/Dashboard).git
 cd admin-dashboard
 Open in Browser:
 Double-click the index.html file or open it in a browser of your choice.
